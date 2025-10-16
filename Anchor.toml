@@ -6,10 +6,10 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-shield = "DuFBJmHcD2bhw1eE7xYYYramiQmCBzTLSRCi6tpWGTPF"
+shield = "Hvz9QNiPfN3Q2oTnDCTTPun4k1TXJmRv3Vz7xCGRUaT6"
 
 [programs.devnet]
-shield = "DuFBJmHcD2bhw1eE7xYYYramiQmCBzTLSRCi6tpWGTPF"
+shield = "Hvz9QNiPfN3Q2oTnDCTTPun4k1TXJmRv3Vz7xCGRUaT6"
 
 [registry]
 url = "https://api.apr.dev"
